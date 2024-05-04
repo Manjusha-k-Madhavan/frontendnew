@@ -1,0 +1,49 @@
+
+
+
+.box1{
+    background-color:mediumvioletred;
+    
+   height:auto;
+}
+.box2{
+    background-color:rgb(226, 64, 167);
+    
+  
+    height: auto;
+    
+}
+.box3{
+    background-color: white;
+    height: auto;
+   
+  
+}
+
+.bg{
+    background-color: rgb(122, 6, 80);
+}
+
+.footer{
+    background-color: mediumvioletred;
+}
+.img{
+    position: relative;
+   
+}
+
+.name{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 81%;
+}
+.name1{
+    position: absolute;
+    margin-top: 48%;
+    margin-left: 87%;
+}
+.name3{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 83%;
+}
